@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **React, ASP.net, The Entity Framework**
+- 🌱 I’m currently learning **JS, Data Structures and algorithms**
 
 <p align="center">
 </p>
