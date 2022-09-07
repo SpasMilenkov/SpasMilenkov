@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Spas</h1>
 <h3 align="center">A passionate computer science student.</h3>
 
-- 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **JS, Data Structures and algorithms**
+- 🌱 I’m currently learning **Vue JS**
 
 <p align="center">
 </p>
