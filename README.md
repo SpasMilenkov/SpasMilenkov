@@ -1,6 +1,6 @@
 # 💫 About Me:
-Passionate web developer
-Computer science student
+Passionate web developer<br>
+Computer science student<br>
 Junior Fullstack Developer at Softaware
 
 # 💻 Tech Stack:
